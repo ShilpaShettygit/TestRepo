@@ -21,7 +21,7 @@ public class ValidateAPICoinDesk {
 	}
 	@Test
 	public void testCoinDeskAPI() {
-		// Define the base URI
+		// Define the base URI hh
 
 		Response response = request
 				.when()
